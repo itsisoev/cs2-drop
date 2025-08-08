@@ -1,0 +1,36 @@
+// Применяем шрифты строго по шаблону!
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@200..900&display=swap');
+// Шрифт: font-family: "Unbounded", sans-serif;
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+// Шрифт для span, p: font-family: "Roboto", sans-serif;
+
+h1 {
+  font-size: 1.375rem;
+  font-weight: 500;
+  margin: 0;
+}
+
+h2 {
+  font-size: 1.275rem;
+  font-weight: 400;
+  margin: 0;
+}
+
+h3 {
+  font-size: 1.25rem;
+  font-weight: 400;
+  margin: 0;
+}
+
+h4 {
+  font-size: 1rem;
+  font-weight: 300;
+  margin: 0;
+}
+
+h5 {
+  font-size: 0.875rem;
+  font-weight: 500;
+  margin: 0;
+}
